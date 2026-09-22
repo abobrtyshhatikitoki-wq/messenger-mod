@@ -1,0 +1,20 @@
+{
+  "messenger.button": "Месенджер",
+  "messenger.title": "МЕСЕНДЖЕР",
+  "messenger.recipient": "Отримувач",
+  "messenger.recipient_hint": "Нік гравця",
+  "messenger.message": "Напишіть повідомлення...",
+  "messenger.message_hint": "Напишіть повідомлення...",
+  "messenger.send": "Надіслати",
+  "messenger.close": "Закрити",
+  "messenger.chats": "Історія чатів",
+  "messenger.online_players": "Гравці онлайн",
+  "messenger.choose_chat": "Оберіть діалог",
+  "messenger.notification": "Нове повідомлення від %s — натисніть кнопку Messenger, щоб прочитати",
+  "messenger.welcome.title": "Ласкаво просимо до Messenger",
+  "messenger.welcome.message": "Дякуємо, що використовуєте мод Messenger!",
+  "messenger.welcome.subtitle": "Приватний чат із локальною історією",
+  "messenger.welcome.continue": "Продовжити",
+  "key.messenger.open": "Відкрити Messenger",
+  "category.messenger": "Messenger"
+}

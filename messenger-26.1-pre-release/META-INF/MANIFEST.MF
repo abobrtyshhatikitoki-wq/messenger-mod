@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Fabric-Jar-Type: classes
+Fabric-Loom-Client-Only-Entries: ua/vadim/messenger/CommandSelector$Temp
+ late.class;ua/vadim/messenger/CommandSelector.class;ua/vadim/messenger/
+ MessageHistory$Entry.class;ua/vadim/messenger/MessageHistory.class;ua/v
+ adim/messenger/MessengerClient.class;ua/vadim/messenger/MessengerConfig
+ .class;ua/vadim/messenger/MessengerScreen.class;ua/vadim/messenger/Welc
+ omeScreen.class;ua/vadim/messenger/mixin/ScreenAccessor.class
+Fabric-Loom-Mixin-Remap-Type: static
+Fabric-Loom-Split-Environment: true
+Fabric-Gradle-Version: 9.2.1
+Fabric-Loom-Version: 1.14.10
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.21.11
+Fabric-Tiny-Remapper-Version: 0.12.2
+Fabric-Loader-Version: 0.18.1
+Fabric-Mixin-Version: 0.16.5+mixin.0.8.7
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+

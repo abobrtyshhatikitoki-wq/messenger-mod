@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "messenger",
+  "version": "26.1-pre-release",
+  "name": "Messenger",
+  "description": "Private-message GUI with heads, unread badges and persistent JSON history.",
+  "authors": ["Vadim / Messenger development"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["ua.vadim.messenger.MessengerClient"]
+  },
+  "mixins": ["messenger.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "fabric-api": "*"
+  }
+}
